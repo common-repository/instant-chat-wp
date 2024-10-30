@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-11-09 12:01-0300\n"
+"PO-Revision-Date: 2022-11-09 13:19-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: admin/js\n"
+
+#: admin/tabs/main.php:30
+msgid "Today"
+msgstr "Hoy"
+
+#: admin/tabs/main.php:37
+msgid "This Week"
+msgstr "Esta Semana"
+
+#: admin/tabs/main.php:43
+msgid "Follow-up"
+msgstr "Seguimiento"
+
+#: admin/tabs/main.php:50
+msgid "Answered"
+msgstr "Sin respuesta"
+
+#: admin/tabs/main.php:59
+msgid "Unanswered "
+msgstr "Respondidos "
+
+#: admin/tabs/main.php:70
+msgid "Latest Contact Requests"
+msgstr "Últimos Contactos"
+
+#: admin/tabs/main.php:81
+msgid "Date"
+msgstr "Fecha"
+
+#: admin/tabs/main.php:82
+msgid "When"
+msgstr "Cuando"
+
+#: admin/tabs/main.php:83
+msgid "Agent"
+msgstr "Usuario"
+
+#: admin/tabs/main.php:84
+msgid "Client"
+msgstr "Cliente"
+
+#: admin/tabs/main.php:85
+msgid "Phone Number"
+msgstr "Teléfono"
+
+#: admin/tabs/main.php:86
+msgid "URL"
+msgstr "Página"
+
+#: admin/tabs/main.php:87 admin/tabs/settings.php:58
+msgid "Message"
+msgstr "Mensaje"
+
+#: admin/tabs/main.php:88
+msgid "Status"
+msgstr "Estado"
+
+#: admin/tabs/main.php:89
+msgid "Actions"
+msgstr "Acciones"
+
+#: admin/tabs/main.php:127
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/tabs/main.php:136
+msgid "There are no stats yet."
+msgstr "No hay estadísticas."
+
+#: admin/tabs/pro.php:8
+msgid "Thank you very much for installing Instant Chat WP."
+msgstr ""
+
+#: admin/tabs/pro.php:10
+msgid ""
+"The Pro version has many features that will help you to provide better "
+"support to your visitors."
+msgstr ""
+
+#: admin/tabs/pro.php:24
+msgid "Multiple Staff Members"
+msgstr "Multiples Usuarios"
+
+#: admin/tabs/pro.php:25
+msgid ""
+"Instant Chat WP Pro allows you to create unlimited team members, each one of "
+"your staff members will have a custom Whatsap Chat Box. This is useful to "
+"take the client straight to the right department without losing time"
+msgstr ""
+
+#: admin/tabs/pro.php:27
+msgid "Unlimited Staff Members"
+msgstr "Usuários Ilimitados"
+
+#: admin/tabs/pro.php:28
+msgid "Custom Availability & Work Schedule"
+msgstr "Configuración de Disponiblidad diaria"
+
+#: admin/tabs/pro.php:29
+msgid "Custom Labels & Texts"
+msgstr "Textos Personalizados"
+
+#: admin/tabs/pro.php:30
+msgid "Multiple Departments"
+msgstr "Varios Departamentos"
+
+#: admin/tabs/pro.php:44
+msgid "Elegant Whatsapp Chat Box"
+msgstr "Caja de mensajes para Whatsapp"
+
+#: admin/tabs/pro.php:45
+msgid ""
+"By installing Instant Chat WP you will be able to set up a custom Whatsapp "
+"Chat Box for your staff members. It gives your visitors and clients a great "
+"way to get in contact with you instantly giving them a great support "
+"experience"
+msgstr ""
+
+#: admin/tabs/pro.php:46
+msgid "CUSTOM ONLINE MESSAGE"
+msgstr "MENSAJE DE BIENVENIDA"
+
+#: admin/tabs/pro.php:47
+msgid ""
+"You can set a custom welcome message to each one of your staff members. This "
+"message will be displayed to your clients only when the agent is available"
+msgstr ""
+
+#: admin/tabs/pro.php:48
+msgid "CUSTOM UNAVAILABLE MESSAGE"
+msgstr "MENSAJES DE NO DISPONIBLE"
+
+#: admin/tabs/pro.php:49
+msgid ""
+"When a client tries to get in contact with an unavailable staff member it "
+"would be a great idea to let him know that the selected team member is not "
+"available. Certainly, the clients will love a nice unavailable message"
+msgstr ""
+
+#: admin/tabs/settings.php:4
+msgid "Instant Chat WP Settings"
+msgstr "Configuraciones"
+
+#: admin/tabs/settings.php:19
+msgid "Activate Instant Chat WP"
+msgstr "Activar Instant Chat WP"
+
+#: admin/tabs/settings.php:21 admin/tabs/settings.php:22
+msgid ""
+"If this is checked the floating WhatsApp button will be displayed in all "
+"pages."
+msgstr ""
+
+#: admin/tabs/settings.php:28
+msgid "Show PopUp?"
+msgstr "Mostrar Popup?"
+
+#: admin/tabs/settings.php:30
+msgid "YES"
+msgstr "SI"
+
+#: admin/tabs/settings.php:31
+msgid "NO"
+msgstr "NO"
+
+#: admin/tabs/settings.php:34 admin/tabs/settings.php:35
+#: admin/tabs/settings.php:88 admin/tabs/settings.php:89
+#: admin/tabs/settings.php:101 admin/tabs/settings.php:102
+msgid "."
+msgstr "."
+
+#: admin/tabs/settings.php:42
+msgid "WhatsApp Number"
+msgstr "Número de Whatsapp"
+
+#: admin/tabs/settings.php:43 admin/tabs/settings.php:44
+msgid "Input the WhatsApp phone number with country DD. Example 1 for U.S."
+msgstr ""
+"Ingrese el número de WhatsApp com el código de pais. Ejemplo: 1 para U.S."
+
+#: admin/tabs/settings.php:50
+msgid "Popup Message"
+msgstr "Mensaje del Popup"
+
+#: admin/tabs/settings.php:51 admin/tabs/settings.php:52
+msgid "You can set your custom question here."
+msgstr "Puedes ingresar tu propia pregunta."
+
+#: admin/tabs/settings.php:59 admin/tabs/settings.php:60
+msgid ""
+"This message will be displayed as the first message of the conversation."
+msgstr "Este será el primer mensaje que el visitante ve."
+
+#: admin/tabs/settings.php:66
+msgid "Footer Message"
+msgstr "Mensaje inferior"
+
+#: admin/tabs/settings.php:67 admin/tabs/settings.php:68
+msgid "This message will be displayed at the footer of the ChatBox."
+msgstr "Este será el primer mensaje que el visitante verá."
+
+#: admin/tabs/settings.php:74
+msgid "Header Title"
+msgstr "Titulo del encabezados"
+
+#: admin/tabs/settings.php:75 admin/tabs/settings.php:76
+msgid "You can set your custom header title."
+msgstr "Puedes ingressar tu próprio mensaje de la parte superior aqui."
+
+#: admin/tabs/settings.php:82
+msgid "Position"
+msgstr "Posición"
+
+#: admin/tabs/settings.php:84
+msgid "Right"
+msgstr "Derecha"
+
+#: admin/tabs/settings.php:85
+msgid "Left"
+msgstr "Izquierda"
+
+#: admin/tabs/settings.php:95
+msgid "Multiple Agents?"
+msgstr "Vários Usuários?"
+
+#: admin/tabs/settings.php:97
+msgid "Deactivated"
+msgstr "Desactivado"
+
+#: admin/tabs/settings.php:98
+msgid "Active"
+msgstr "Activo"
+
+#: admin/tabs/settings.php:117
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: admin/tabs/users.php:31
+msgid "Thank you very much for using Instant Chat WP."
+msgstr "Muchas gracias por utilizar Instant Chat WP."
+
+#: admin/tabs/users.php:33
+msgid ""
+"Should you wish to add more staff members please consider upgrading your "
+"version."
+msgstr ""
+"Si desea agregar más usuarios, por favor considere comprar la versión "
+"premium."
+
+#: admin/tabs/users.php:114
+msgid "'s Picture"
+msgstr "Foto"
+
+#: admin/tabs/users.php:144 admin/tabs/users.php:154
+msgid "Please wait ..."
+msgstr "Por favor espere .."
+
+#: classes/admin.php:26 classes/admin.php:154
+msgid "Settings"
+msgstr "Confirguraciones"
+
+#: classes/admin.php:63
+msgid "Hi, how can I help you?"
+msgstr "Hola, como podemos ayudarte?"
+
+#: classes/admin.php:64
+msgid "I would like to receive further information about your services"
+msgstr "Me gustaria recibir más información acerca de sus servicios"
+
+#: classes/admin.php:71
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: classes/admin.php:116
+msgid "Pending Requests"
+msgstr "Solicitudes Pendientes"
+
+#: classes/admin.php:143
+#, php-format
+msgid "%d  pending contact requests"
+msgstr ""
+
+#: classes/admin.php:146
+#, php-format
+msgid "Instant Chat WP %s"
+msgstr ""
+
+#: classes/admin.php:148
+msgid "Instant Chat WP"
+msgstr ""
+
+#: classes/admin.php:151
+msgid "Instant Chat WP Pro"
+msgstr ""
+
+#: classes/admin.php:152
+msgid "Agents"
+msgstr "Usuarios"
+
+#: classes/admin.php:155
+msgid "Go Premium"
+msgstr "Premium"
+
+#: classes/admin.php:254
+msgid "Settings saved."
+msgstr "Configuraciones guardadas."
+
+#: classes/admin.php:272
+msgid "You must to set a valid WhatsApp Number"
+msgstr "Debes ingresar um número de Whatsapp"
+
+#: classes/admin.php:274
+msgid "Go to Settings"
+msgstr "Ir a configuraciones"
+
+#: classes/admin.php:313
+msgid "INSTANT CHAT WP"
+msgstr "INSTANT CHAT WP"
+
+#: classes/admin.php:314
+msgid "<a href=\"?page=instantchatwp\">"
+msgstr ""
+
+#: classes/admin.php:318
+msgid "DASHBOARD"
+msgstr "PRINCIPAL"
+
+#: classes/admin.php:322
+msgid "AGENTS"
+msgstr "USUARIOS"
+
+#: classes/admin.php:326
+msgid "GO PRO"
+msgstr "Premium"
+
+#: classes/instantchatwp.php:117
+msgid "Please, type your name here"
+msgstr "Por favor, escribe tu nombre aquí"
+
+#: classes/instantchatwp.php:118
+msgid "Please, type your cel. number here"
+msgstr "Por favor, escribe tu celular aquí"
+
+#: classes/instantchatwp.php:130 classes/instantchatwp.php:140
+msgid "here!"
+msgstr "aqui!"
+
+#: classes/instantchatwp.php:131
+#, php-format
+msgid "Instant Chat WP is free, download and try it now %s "
+msgstr "Instant Chat WP es gratuito, pruebalo %s "
+
+#: classes/instantchatwp.php:141
+msgid "Write a reponse"
+msgstr "Esciva una respuesta"
+
+#: classes/instantchatwp.php:326
+msgid "second"
+msgstr "segundo"
+
+#: classes/instantchatwp.php:327
+msgid "minute"
+msgstr "minuto"
+
+#: classes/instantchatwp.php:328
+msgid "hour"
+msgstr "hora"
+
+#: classes/instantchatwp.php:329
+msgid "day"
+msgstr "dia"
+
+#: classes/instantchatwp.php:330
+msgid "week"
+msgstr "semana"
+
+#: classes/instantchatwp.php:331
+msgid "month"
+msgstr "mes"
+
+#: classes/instantchatwp.php:332
+msgid "year"
+msgstr "año"
+
+#: classes/instantchatwp.php:333
+msgid "decade"
+msgstr "decada"
+
+#: classes/instantchatwp.php:352
+msgid "ago"
+msgstr "hace"
+
+#: classes/instantchatwp.php:356
+msgid "from now"
+msgstr "hace"
+
+#: index.php:35
+msgid "Go Pro"
+msgstr "Premium"

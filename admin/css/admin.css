@@ -1,0 +1,859 @@
+/*Admin - Main*/
+
+#instantchatwp-breaks-new-box{ display:none; }
+#instantchatwp-appointment-list{ display:none; }
+#instantchatwp-appointment-change-status{ display:none; }
+
+
+.nav-tab{ background:#FFF !important}
+.nav-tab-active, .nav-tab-active:focus, .nav-tab-active:focus:active, .nav-tab-active:hover{ background: #EFEFEF !important}
+
+.bp-messaging-hidden{ display:none}
+
+.instantchatwp-pro-tab-bubble { 
+    background-color: #E55237 !important;
+    color:white; border:solid 1px #df4a2f  
+
+}
+
+.instantchatwp-pro-tab-bubble:hover { 
+    background-color: #E55237;
+    color:white;  border:solid 1px #df4a2f 
+
+}
+
+.instantchatwp-adm-bar-opt-edit {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    font-size: 13px;
+    line-height: 2.1em;
+    margin: 5px 0;
+    overflow: auto;
+    padding: 5px 10px 5px;
+    position: relative;
+	height:auto;	
+	margin-left: 13px;
+    max-width: 1000px;
+	/*width:700px;*/
+}
+
+.instantchatwp-divline {
+   
+    border-top: 1px #c1c1c1;
+    border-top-style: none;
+    width: 90%;
+    padding: 10px;
+    border-top-style: dashed;
+    margin: 10px auto 10px auto; 
+	
+}
+
+/*PRO*/
+
+h3.instantchatwp-extended{
+    font-size: 3.0rem !important;
+    font-weight: bold !important;
+}
+
+.instantchatwp-welcome-pro {
+
+    position: relative;
+    margin: 30px 0px 20px 0px;
+    width: 100%;
+    display: inline-block;
+    padding: 10px 0px 10px 0px;
+ 
+}
+
+.instantchatwp-welcome-pro ul{
+    position: relative;
+    width: 100%;
+    padding: 10px;
+ 
+}
+
+.instantchatwp-welcome-pro ul li{
+
+    font-size: 1.2rem;
+    margin: 10px 0px 10px;
+ 
+}
+
+p.instantchatwp-extended-p{
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.instantchatwp-welcome-pro p{
+    font-weight: 300 !important;
+    font-size: 1.2rem !important;
+ 
+}
+.instantchatwp-welcome-pro h3{
+    text-align: left !important;
+ 
+}
+.instantchatwp-welcome-pro .instantchatwp-welcome-pro-col1{
+
+    display: inline-block;
+    width: 47%;
+    vertical-align: top;
+    text-align: right;
+}
+
+.instantchatwp-welcome-pro .instantchatwp-welcome-pro-col2{
+    display: inline-block;
+    width: 47%;
+    vertical-align: top;
+    text-align: left;
+}
+
+.instantchatwp-upgrade-pro-box{
+    text-align: center;
+    padding: 10px;
+}
+
+.instantchatwp-upgrade-pro-btn{
+    text-align: center;
+    padding: 10px;
+}
+.instantchatwp-button-upgrade{ 
+
+
+    background: #14B1EF none repeat scroll 0 0;
+    border:none;
+    color: #FFF;
+    font-size:20px;
+    line-height:20px;
+    padding:0 12px;
+    height:50px;
+    width:200px;
+    border-radius: 5px;
+    text-decoration:none;
+    cursor:pointer;	
+}
+   
+.instantchatwp-welcome-panel .instantchatwp-button-upgrade:hover{ 
+   
+       background: #26BAF4 none repeat scroll 0 0;
+       border:none;
+      
+       box-shadow: none;
+       color: #CCC;
+       text-shadow: none;
+}
+
+
+/*end-PRO*/
+
+.instantchatwp-adm-bar-opt-edit p{ margin:0px;
+}
+
+/*New Dashboard*/
+
+.instantchatwp-welcome-panel .instantchatwp-main-quick-summary { text-align:center }
+
+.instantchatwp-welcome-panel  .instantchatwp-main-quick-summary p.bupquickappbtn{ text-align:right; color:#666 }
+.instantchatwp-welcome-panel .instantchatwp-main-quick-summary p.bupquickappbtn a{ color:#666; text-decoration:none }
+
+.instantchatwp-welcome-panel .instantchatwp-main-quick-summary a span{ margin-right:5px; }
+
+.instantchatwp-welcome-panel  .instantchatwp-main-quick-summary ul{ padding:5px; background:#FBFBFB; margin:10px 0px 10px 0px }
+.instantchatwp-welcome-panel  .instantchatwp-main-quick-summary ul li{
+    display: inline-block;
+    height: 90px;
+    margin: 0px 0px 0px 5px;
+    background: #FCFCFC;
+    border-bottom: solid 1px white;
+    vertical-align: top;
+    width: 19%;
+    padding: 10px 0 10px 0px;
+}
+        
+    .instantchatwp-welcome-panel  .instantchatwp-main-quick-summary ul li a{ display:block; width:100%; height:100%; text-decoration:none }
+    .instantchatwp-welcome-panel .instantchatwp-main-quick-summary ul li p{ 
+    font-size:3rem; 
+    margin:0px; 
+    font-weight:700;
+    text-align:center 
+}
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-2 .instantchatwp-main-quick-summary ul li small{ font-size:1.2rem; color:#999 }
+
+
+
+.instantchatwp-main-sales-summary .instantchatwp-main-blocksec {    
+    margin: 14px 0;
+    overflow: auto;
+    padding: 0px;
+    position: relative;
+}
+
+.instantchatwp-go-pro-topbutton {
+    right: 15px;
+    position: absolute;
+
+}
+
+.instantchatwp-admin-contain{
+
+	background-color: #FFF;
+	padding: 5px;
+}
+
+.instantchatwp-btn-red-pro{
+    
+    background: #f7d2d2 !important;
+    color: #2e2b2b !important;
+    font-size: 1.1rem !important;
+    font-weight: bold;
+    border: solid 1px #c6c6c6 !important;
+
+}
+
+.instantchatwp-message{
+	background-color: fff;
+	padding: 5px 0px 5px 0px;
+}
+
+.instantchatwp-top-main-bar {
+    width: 100%;
+    position: relative;
+    padding: 10px 0px 5px 0px;
+    border-bottom: solid 2px #f3f3f3;
+    background: #fdfdfd;
+    border-radius: 0px;
+    margin: 0px;
+	    
+}
+
+.instantchatwp-welcome-panel {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    font-size: 13px;
+    line-height: 2.1em;
+    margin: 10px 0;
+    overflow: auto;
+    padding: 10px 10px 5px;
+    position: relative;
+}
+
+.instantchatwp-welcome-panel td i {
+    font-size: 18px;
+	color:#333
+   
+}
+
+.instantchatwp-welcome-panel h3 {
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 1.2;
+    margin: 0;
+    text-align: center;
+}
+.instantchatwp-welcome-panel h4 {
+    font-size: 16px;
+    margin: 1.33em 0 0;
+}
+.instantchatwp-welcome-panel li {
+    font-size: 14px;
+}
+
+
+.instantchatwp-welcome-panel-content {
+    margin-left: 13px;
+    max-width: 1500px;
+}
+.instantchatwp-welcome-panel .welcome-panel-column-container {
+    clear: both;
+    position: relative;
+	padding-top:10px;
+	padding-bottom:10px
+}
+.instantchatwp-welcome-panel .welcome-panel-column {
+    float: none;
+    min-width: 200px;
+    width: 33%;
+	display:inline-block;
+	vertical-align:top;
+	
+}
+
+
+.instantchatwp-welcome-panel .welcome-panel-column-pro-s {
+    float: none;
+    min-width: 200px;
+    width: 44%;
+	display:inline-block;
+	vertical-align:top;
+	margin:10px 0px 5px 10px;
+	
+}
+
+.instantchatwp-welcome-panel .welcome-panel-column-pro-s img {
+	
+	max-width:100%;   	
+}
+
+.instantchatwp-welcome-panel .welcome-panel-column-pro-s p {
+	font-size:14px;	   	
+}
+
+.instantchatwp-welcome-panel .welcome-panel-column-pro-s h4 {
+	
+	margin-top:1.2em;
+	font-size:18px;	   	
+
+  	
+}
+
+
+
+.instantchatwp-welcome-panel .welcome-panel-column-pro {
+    float: none;
+    min-width: 200px;
+    width: 32%;
+	display:inline-block;
+	vertical-align:top;
+	margin:10px 0px 5px 10px;
+	
+}
+
+.instantchatwp-welcome-panel .welcome-panel-column-pro img {
+	
+	max-width:100%;   	
+}
+
+.instantchatwp-welcome-panel .welcome-panel-column-pro p {
+	font-size:14px;	   	
+}
+
+.instantchatwp-welcome-panel .welcome-panel-column-pro h4 {
+	
+	margin-top:1.2em;
+  	
+}
+
+
+.instantchatwp-top-main-bar .instantchatwp-top-main-texts{
+    position: relative;  
+	    
+}
+
+.instantchatwp-top-main-bar .instantchatwp-top-main-plugin-name{
+    position: absolute; 
+    left: 5px;
+    top: 0px; 
+	    
+}
+
+.instantchatwp-top-main-bar .instantchatwp-top-main-plugin-name a{
+    color: #9b9b9b;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 1.6rem;
+}
+
+.wp-picker-container, .wp-picker-container:active{ position:absolute; display:inline; z-index: 1000;}
+
+.wp-picker-holder{margin-left: 180px;}
+
+
+.instantchatwp-top-main-bar .instantchatwp-top-main-texts ul{
+
+    text-align: right;
+    padding: 2px 5px 0px 0px;
+    margin: 0px;
+}
+
+.instantchatwp-top-main-bar .instantchatwp-top-main-texts ul li{
+    display: inline-block;
+    margin: 0px 5px 0px 5px;
+    text-align: center;
+    
+    border: solid 1px whitesmoke;
+    padding: 5px;
+    border-radius: 0.2rem;
+    background: #ffffff6e;
+    width: 80px;
+	    
+}
+
+.instantchatwp-top-main-bar .instantchatwp-top-main-texts ul li a{
+    text-decoration: none;
+    font-size: 15px;
+    color: #2b2b2b;
+    display: block;	    
+}
+
+.instantchatwp-top-main-bar .instantchatwp-top-main-texts ul li a p{
+
+    font-size: 12px;
+
+}
+
+
+
+.instantchatwp-top-main-bar .instantchatwp-top-main-texts ul li.pro{
+   
+    background-color: #14B1EF ;
+        
+ }
+
+ .instantchatwp-top-main-bar .instantchatwp-top-main-texts ul li.pro p{
+   
+   color: #fff;
+        
+ }
+
+ i.pro{
+   
+    color: #fff;
+         
+  }
+
+.instantchatwp-top-main-bar h2{
+    font-size: 1.6em;
+    margin: 0px;
+    padding: 0px;
+    font-weight: 700
+    
+   
+}
+
+.instantchatwp-top-main-bar table { 
+    
+    border: 0;margin: 5px
+	    
+}
+
+.instantchatwp-top-main-bar table td{
+    font-size: 1.1em; 
+    vertical-align: top;
+    
+	    
+}
+
+
+.instantchatwp-backend-info-tool{
+	
+}
+
+.instantchatwp-backend-info-tool i{
+	color:#F00;
+	font-size:16px;
+	
+}
+
+
+.instantchatwp-f-welcome-panel-content {
+
+    justify-content:normal;
+}
+
+
+/*Custom Fields for Bookng Edit*/
+.instantchatwp-profile-separator{ clear:both; position:relative;
+
+	border-bottom: 1px solid #DBDBDB;
+	margin-bottom: 25px;
+	margin-top: 15px;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding:0 0 10px 0;
+	color: #333;
+	text-align:left;
+}
+
+.instantchatwp-profile-field{ 
+    clear: both;
+    position: relative;
+    height: auto;
+    min-height: 40px;
+    margin: 10px 0px 0px 0px;
+    padding: 5px 10px 5px 10px;
+    border-bottom: solid 1px #f1f1f1;
+}
+.instantchatwp-field-type{ display:inline-block; font-size: 18px; width:30%; text-align:left; vertical-align:top}
+.instantchatwp-field-type img{ position:relative !important}
+
+.instantchatwp-input{
+    height: 50px;
+    font-size: 18px;
+}
+
+.instantchatwp-field-value{ display:inline-block; width:66%; vertical-align:top; text-align:left}
+
+.instantchatwp-field-type i {
+
+	float: left;
+	width: 26px;
+	height: 26px;
+	line-height: 26px;
+	margin: 0 14px 0 0;	
+	text-align: center;
+	position: relative;
+	top: auto;
+}
+
+.instantchatwp-input-text-area {
+	height:100px !important;
+	width:98%;
+	
+}
+
+.instantchatwp-button-submit-changes{ 
+
+    border: none;
+    background: #ddd none repeat scroll 0 0;
+    color: #000;
+    font-size: 18px;
+    line-height: 32px;
+    padding: 0 12px;
+    height: auto;
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 10px;
+   
+   }
+   
+   .instantchatwp-button-submit-changes:hover{    
+       background: #CCC     none repeat scroll 0 0;
+       border: none;
+       box-shadow: none;
+       color: #000;
+       height: auto;
+       text-shadow: none;
+   }
+   
+   .instantchatwp-button-submit-changes{ transition: all 0.1s ease-out 0s;}
+
+#instantchatwp-loading-animation-business-hours{ display:none; }
+
+.bookingultra-admin-contain .avatar {
+border-radius: 50%;
+-moz-border-radius: 50%;
+-webkit-border-radius: 50%;
+}
+
+span.instantchatwp-main-close-open-tab{ position:absolute; right:5px; top:10px}
+span.instantchatwp-main-close-open-tab a{ font-size:18px; color:#474747}
+span.instantchatwp-main-close-open-tab i{ font-size:18px}
+
+.instantchatwp-buy-pro-btn{
+
+    background-color: #00529B;
+}
+
+.instantchatwp-plugins-gopro{
+
+    color:#C40000 ;
+    font-weight: bold;
+}
+
+.instantchatwp-zoom-ico{
+
+    font-size: 0.8rem;
+    font-weight: 300;
+}
+
+.instantchatwp-appointments-getting-started {
+
+}
+
+.instantchatwp-adm-frm-daysofflst {
+	width:200px;
+
+}
+
+.instantchatwp-adm-frm-daysofflst ul {
+
+}
+
+.instantchatwp-adm-frm-daysofflst li {
+	position:relative;
+	margin:10px;
+
+}
+
+.instantchatwp-adm-frm-specialschedule {
+	width:300px;
+
+}
+
+.instantchatwp-adm-frm-specialschedule ul {
+
+}
+
+.instantchatwp-adm-frm-specialschedule li {
+	position:relative;
+	margin:10px;
+
+}
+
+/*New Dashboard*/
+.instantchatwp-main-sales-summary { text-align:center }
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-1{ display:inline-block; overflow:hidden; position:relative; width:99%; vertical-align:top; text-align: center}
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-2{ display:inline-block; width:99%; vertical-align:top }
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-3{ display:inline-block ; width:99%; vertical-align:top}
+
+
+
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-2 .instantchatwp-main-quick-summary { text-align:center }
+
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-2 .instantchatwp-main-quick-summary p.bupquickappbtn{ text-align:right; color:#666 }
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-2 .instantchatwp-main-quick-summary p.bupquickappbtn a{ color:#666; text-decoration:none }
+
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-2 .instantchatwp-main-quick-summary a span{ margin-right:5px; }
+
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-2 .instantchatwp-main-quick-summary ul{ padding:5px; background:#FBFBFB; margin:10px 0px 10px 0px }
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-2 .instantchatwp-main-quick-summary ul li{
+		display: inline-block;
+		height: 90px;
+		margin: 0px 0px 0px 5px;
+		background: #FFFFFF;
+		border: none;
+		vertical-align: top;
+		width: 19%;
+		padding: 5px 0 5px 0px; }
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-2 .instantchatwp-main-quick-summary ul li a{ display:block; width:100%; height:100%; text-decoration:none }
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-2 .instantchatwp-main-quick-summary ul li p{ 
+    font-size:3rem; 
+    margin:0px; 
+    font-weight:700;
+    text-align:center 
+}
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-2 .instantchatwp-main-quick-summary ul li small{ font-size:1.2rem; color:#999 }
+
+
+
+.instantchatwp-main-sales-summary .instantchatwp-main-blocksec {    
+    margin: 14px 0;
+    overflow: auto;
+    padding: 0px;
+    position: relative;
+}
+
+.instantchatwp-main-sales-summary .instantchatwp-main-blocksec .bupdashsum{ text-align:center }
+
+.instantchatwp-main-sales-summary .instantchatwp-main-blocksec .bupdashsum ul{ padding:5px; background:#FBFBFB; margin:10px 0px 10px 0px }
+.instantchatwp-main-sales-summary .instantchatwp-main-blocksec .bupdashsum ul li{
+		display: inline-block;
+		height: 70px;
+		margin: 0px 0px 0px 5px;
+		background: #FFFFFF;
+		border: solid 1px #F8F8F8;
+		vertical-align: top;
+		width: 22%;
+		padding: 5px 0 5px 0px; }
+.instantchatwp-main-sales-summary .instantchatwp-main-blocksec .bupdashsum ul li a{ display:block; width:100%; height:100%; text-decoration:none }
+.instantchatwp-main-sales-summary .instantchatwp-main-blocksec .bupdashsum ul li p{ font-size:30px; 
+margin:0px; font-weight:600; text-align:center }
+.instantchatwp-main-sales-summary .instantchatwp-main-blocksec .bupdashsum ul li small{ font-size:11px; color:#999 }
+
+
+
+
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-3 ul{ padding:5px; background:#FBFBFB; margin:10px 0px 10px 0px }
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-3 ul li{ 
+	display: inline-block;
+	height:45px;
+	margin: 0px 0px 0px 5px;
+	background: #FFFFFF;
+	border: solid 1px #F8F8F8;
+	vertical-align: top;
+	width: 45%;
+	padding: 0px 0px 10px 0px;}
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-3 ul li a{ display:block; width:100%; height:100%; text-decoration:none }
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-3 ul li p{ font-size:20px; margin:0px; line-height:18px;font-weight:20; text-align:center }
+.instantchatwp-main-sales-summary .instantchatwp-main-dashcol-3 ul li small{ font-size:11px; color:#999 }
+
+
+
+
+
+/**/
+
+
+
+p.instantchatwp-extra-features{ font-size:0.9em; line-height:10px; text-align:right}
+p.instantchatwp-timestamp-features{ font-size:11px; line-height:10px; text-align:right}
+.instantchatwp-appointments-getting-started li span{ margin-right:5px}
+.instantchatwp-appointments-getting-started a { text-decoration:none}
+.instantchatwp-appointments-getting-started li i{ color:#333}
+
+.instantchatwp-appointment-status-update{ margin-right:5px} 
+.instantchatwp-appointment-status-update ul{ }
+.instantchatwp-appointment-status-update li{ margin:5px 5px 5px 5px; list-style:none}
+.instantchatwp-appointment-status-update li span{ margin-left:5px}
+.instantchatwp-appointment-status-update a { text-decoration:none}
+.instantchatwp-appointment-status-update li i{ color:#333; font-size:25px}
+
+span.instantchatwp-app-legend-pending{ color: #FFCC00 ; font-weight:600}
+span.instantchatwp-app-legend-approved{ color: #090; font-weight:600}
+span.instantchatwp-app-legend-cancelled{ color: #F00; font-weight:600}
+span.instantchatwp-app-legend-noshow{ color: #006; font-weight:600}
+
+
+.instantchatwp-common-block {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    font-size: 13px;
+    line-height: 2.1em;
+    margin: 5px 0;
+    overflow: auto;
+  
+    position: relative;
+	height:auto;	
+	
+   
+	width:99%;
+}
+
+/**/
+.instantchatwp-button-submit{ 
+
+ 
+ border: none;
+ background: #999 none repeat scroll 0 0;
+ color:#fff;
+ font-size:12px;
+ line-height:32px;
+ padding:0 12px;
+ height:auto;
+ text-transform:uppercase;
+ text-decoration:none;
+ cursor:pointer;	
+
+}
+
+.instantchatwp-button-submit:hover{ 
+
+	background: #ddd none repeat scroll 0 0;
+    border: none;
+    box-shadow: none;
+    color: #000;
+    height: auto;
+    text-shadow: none;
+}
+
+.instantchatwp-button-submit{ transition: all 0.1s ease-out 0s;}
+
+/**/
+.instantchatwp-button-change-avatar{ 
+
+    border: none;
+    background: #dddddd59 none repeat scroll 0 0;
+    color: #000;
+    font-size: 15px;
+    line-height: 30px;
+    width: 150px;
+    padding: 0 3px;
+    height: 30px;
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+
+
+.instantchatwp-sect-adm-edit { vertical-align:top}
+
+.instantchatwp-sect .instantchatwp-services .service-color-blet{ width:15px; height:15px; border-radius: 50%;}
+
+
+.instantchatwp-sect-adm-edit span.instantchatwp-action-staff{ position:absolute; right:5px; top:20px; z-index:999}
+.instantchatwp-sect-adm-edit span.instantchatwp-action-staff a{ font-size:20px; color:#474747; cursor:pointer}
+.instantchatwp-sect-adm-edit span.instantchatwp-action-staff i{ font-size:28px}
+
+.instantchatwp-sect-adm-edit span.instantchatwp-action-staff-id{ position:absolute; right:5px; top:2px; z-index:999; font-size:11px}
+
+
+/*widgets edit*/
+
+ul.instantchatwp-details-staff-sections{ margin-top:0px}
+
+.instantchatwp-sect-adm-edit li.left_widget_customizer_li{ 
+    display:inline-block; vertical-align:top; 
+    border:#EFEFEF solid 1px; 
+    width:100%; 
+    height:auto !important; 
+    margin-left:0px; 
+    margin-top:0px;
+    margin-bottom:5px; 
+    padding-bottom:10px;padding-top:0px; 
+ }
+
+.instantchatwp-sect-adm-edit .instantchatwp-staff-details-header {
+
+    width:100%; 
+    cursor:pointer;
+    min-height:50px;
+    clear:both;
+    border-bottom: 1px solid #f6f6f6d6;   
+    position:relative;
+	margin-top:0px;
+}
+
+.instantchatwp-sect-adm-edit .instantchatwp-staff-details-header h3{
+  
+	margin-top:0px;
+	padding-top:5px;
+	padding-left:10px;
+    font-size: 1.5rem;
+}
+
+
+.instantchatwp-sect{position: relative;}
+
+.instantchatwp-sect .instantchatwp-staff { width:99%; padding:2px; position:relative}
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-staff-left{ display:inline-block; width:100%; padding:2px; position:relative; background:none;  vertical-align:top}
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-staff-right{display:inline-block; width:100%;padding:2px; position:relative;  min-height:400px ; vertical-align:top}
+
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-staff-right-avatar{ width:98%;padding:2px; max-width:700px; position:relative;  min-height:400px ; margin:10px auto 10px auto; text-align:center }
+
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-staff-right-avatar h3{ font-size:18px }
+
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-dialog-user-bg-cropper{margin:0px auto 0px auto }
+
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-staff-left ul{display: flex; overflow: auto; }
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-staff-left ul li{ 
+    display:inline-flex;
+    vertical-align: top;
+    min-height:80px; 
+    width: 120px;  
+    padding:5px; 
+    text-align: center; 
+    border: solid 1px #e1e1e1ad;
+    margin-right: 0.5em;
+    text-align: center;
+    border-radius: 5%;
+
+
+
+}
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-staff-left ul li:hover{ background: #F7F7F7}
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-staff-left ul li img{ vertical-align:central;   border-radius: 50%;}
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-staff-left ul li a{ display:block; text-decoration:none; height:100%}
+
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-staff-left .instantchatwp-staff-list-act{ position:relative}
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-staff-left .instantchatwp-staff-list-act span.instantchatwp-add-staff{ position:absolute; right:5px; top:10px}
+
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-staff-left .instantchatwp-staff-list-act span.instantchatwp-add-staff a{ font-size:18px; color:#474747}
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-staff-left .instantchatwp-staff-list-act span.instantchatwp-add-staff i{ font-size:18px}
+
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-staff-left .instantchatwp-staff-name{ 
+    position:relative;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+.instantchatwp-sect .instantchatwp-staff .instantchatwp-staff-left .instantchatwp-staff-name h3{ 
+    font-size: 12px;  
+    text-align: center;
+}
